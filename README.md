@@ -175,7 +175,7 @@ Live Demo
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tejas1121E&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=tejas1121&theme=tokyonight"/>
 </p>
 
 ---
