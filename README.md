@@ -1,30 +1,29 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">Computer Engineering Student | Cloud & DevOps Learner | Frontend Developer</h3>
 
 <p align="center">
-Learning by building real systems • Exploring Cloud Architecture • Growing toward DevOps Engineering
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Learner;AWS+Enthusiast;Frontend+Developer;Learning+by+Building+Real+Projects" />
 </p>
+
+<h3 align="center">Computer Engineering Student | AWS & DevOps Explorer | React Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering student building strong CS fundamentals
-- 💡 Learn by **building projects**, not just watching tutorials
-- 🌐 Currently focused on **Frontend Development + Cloud**
-- ☁️ Actively learning **AWS Cloud Architecture**
-- ⚙️ Exploring **DevOps tools & automation**
+- 💡 Learn by **building real-world systems**
+- ☁️ Focused on **AWS Cloud Architecture**
+- ⚙️ Exploring **DevOps & Automation**
+- 🌐 Building frontend applications using React
 - 🎯 Goal: Secure a **Cloud / DevOps / Software Internship**
 
-> I enjoy understanding how applications move from local development → containers → cloud infrastructure.
+> Interested in how applications move from local machines → containers → cloud infrastructure.
 
 ---
 
 # 🚀 Tech Stack
-
----
 
 ## 💻 Languages
 
@@ -51,15 +50,15 @@ Learning by building real systems • Exploring Cloud Architecture • Growing t
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPC-4053D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,35 +69,102 @@ Learning by building real systems • Exploring Cloud Architecture • Growing t
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 📂 Learning Projects
+# 📂 Projects
 
-### ☁️ AWS Two-Tier Architecture
-- EC2 compute setup
-- S3 storage integration
-- IAM permission management
-- VPC networking basics
+## 🌾 Smart Agriculture Chatbot (AWS)
 
-### 🐳 Docker Networking Lab
-- Multi-container communication
-- Node + Nginx containers
-- Custom Docker networks
-- Docker Compose fundamentals
+Cloud-based agriculture assistant built using AWS services.
+
+**AWS Services Used**
+- Lambda
+- API Gateway
+- SNS Notifications
+- CloudWatch Monitoring
+- IAM Roles
+
+**Highlights**
+- Serverless architecture
+- Event-driven workflow
+- Cloud deployment design
 
 ---
+
+## 🖼️ Image Label Generator (AWS)
+
+Image analysis system using serverless AWS architecture.
+
+**Features**
+- Image upload workflow
+- Automated labeling pipeline
+- Event-triggered processing
+
+**AWS Concepts**
+- S3 storage
+- Lambda processing
+- API Gateway integration
+
+---
+
+## 📢 Event Announcement App (AWS)
+
+Cloud-based notification system.
+
+**Capabilities**
+- Publish announcements
+- Subscriber notifications via SNS
+- Serverless backend logic
+
+---
+
+## 💬 Smart Agri Chatbot (Chatbot System)
+
+- Intent-based responses
+- Agriculture guidance assistant
+- Cloud-integrated chatbot workflow
+
+---
+
+## 🛒 E-Commerce Website (React)
+
+Frontend e-commerce interface built using React.
+
+**Features**
+- Product listing UI
+- Routing & navigation
+- Responsive layout
+- Component-based architecture
+
+---
+## 🤖 Chatbot Application (React)
+
+Frontend chatbot interface built using React with a rule-based response system.
+
+**Features**
+- Interactive chat interface
+- Real-time message rendering
+- Timestamped conversations
+- Rule-based chatbot responses
+- Component-based architecture
+- Responsive UI design
+
+---
+Live Demo
+🔗 https://tejas1121.github.io/chatbot/
 
 # 🎯 Current Focus
 
 - AWS Architecture Design
-- Docker & Container Networking
-- CI/CD Concepts
-- Infrastructure Thinking
+- Docker Networking
+- CI/CD Concepts (Jenkins)
+- Infrastructure Automation (Ansible)
 - DevOps Engineering Path
+- Backend(Node.js)
 
 ---
 
@@ -109,7 +175,15 @@ Learning by building real systems • Exploring Cloud Architecture • Growing t
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tejas1121&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=tejas1121E&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/tejas1121/tejas1121/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
