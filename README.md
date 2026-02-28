@@ -183,9 +183,8 @@ Live Demo
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/tejas1121/tejas1121/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/tejas1121/tejas1121/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 
 # 🧠 Learning Philosophy
