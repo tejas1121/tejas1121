@@ -170,13 +170,13 @@ Live Demo
 
 # 📊 GitHub Analytics
 
-
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejas1121&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=tejas1121&theme=tokyonight"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=tejas1121&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+       
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=tejas1121&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
