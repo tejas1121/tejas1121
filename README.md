@@ -172,10 +172,10 @@ Live Demo
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=tejas1121&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+       src="https://github-readme-stats...."/>
 
   <img height="165"
-       src="https://streak-stats.demolab.com?user=tejas1121&theme=tokyonight&hide_border=true"/>
+       src="https://streak-stats...."/>
 </p>
 ---
 
