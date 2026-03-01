@@ -170,7 +170,7 @@ Live Demo
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejas1121&show_icons=true&theme=tokyonight"/>
